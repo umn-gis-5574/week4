@@ -15,6 +15,9 @@
     - Create a table and map on CartoDB using a dataset of your own or that you find somewhere.
     - Post a link to your map as an [Issue](https://github.com/umn-gis-5574/week4/issues) on this repository.
 
+**Note:** If you've already done some work with CartoDB and this stuff is too easy for you, that's fine. In that case I'd like you to complete one or two of the other academy courses, or a few of the tougher tutorials.
+    
+
 ### Resources
   
 [CartoDB Home](https://cartodb.com/)    
